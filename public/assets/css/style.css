@@ -1,0 +1,11 @@
+body {
+    background-image: url("/images/burger-shop.jpg");
+    width: auto;
+    height: auto;
+    overflow: auto;
+    color: white;
+}
+
+.list-group-item {
+    color: black;
+}
